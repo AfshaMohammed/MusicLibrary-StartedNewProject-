@@ -1,0 +1,44 @@
+.header{
+	text-align:center;
+	color:green;
+	background-color:#cccccf;
+	border:5px white solid;
+	
+}
+.body{
+padding:8px;
+Margin:5px;
+background-color:white;
+
+}
+.MusicLibrary{
+border:25px #cccccf solid;
+}
+#nav{
+display: block;
+	position: absolute;
+	top: 125px;
+	height: 46px;
+	width: 98%;
+	background: #cccccf;
+    margin-left:-30px;
+	
+	
+}
+#nav>li{
+display: block;
+	font-size:25px;
+	text-decoration:none;
+	
+}
+#nav, ul{
+list-style-type:none;
+}
+li{
+	display:inline;
+}
+li a:hover{
+	background-color:black;
+}
+
+
