@@ -12,11 +12,11 @@
 			<div class="body">
 				<div id="nav">
 				<ul>
-					<li><a style="text-decoration:none; color:white; font-size:20px" href="Index.php">Home</a>&nbsp&nbsp&nbsp</li>
-					<li><a style="text-decoration:none; color:white; font-size:20px" href="AboutUs.html">AboutUs</a>&nbsp&nbsp&nbsp</li>
-					<li><a style="text-decoration:none; color:white; font-size:20px" href="ContactUs.html">ContactUs</a>&nbsp&nbsp&nbsp</li>
-					<li><a style="text-decoration:none; color:white; font-size:20px" href="ManagerLogin.php">Manager Login</a>&nbsp&nbsp&nbsp</li>
-					<li><a style="text-decoration:none; color:white; font-size:20px" href="SignUp.php">SignUp</a>&nbsp&nbsp&nbsp</li>
+					<li><a style="text-decoration:none; color:white; font-size:20px" href="Index.php">Home</a>&nbsp&nbsp&nbsp;</li>
+					<li><a style="text-decoration:none; color:white; font-size:20px" href="AboutUs.html">AboutUs</a>&nbsp&nbsp&nbsp;</li>
+					<li><a style="text-decoration:none; color:white; font-size:20px" href="ContactUs.html">ContactUs</a>&nbsp&nbsp&nbsp;</li>
+					<li><a style="text-decoration:none; color:white; font-size:20px" href="ManagerLogin.php">Manager Login</a>&nbsp&nbsp&nbsp;</li>
+					<li><a style="text-decoration:none; color:white; font-size:20px" href="SignUp.php">SignUp</a>&nbsp&nbsp&nbsp;</li>
 					<li><a style="text-decoration:none; color:white; font-size:20px" href="SignIn.php">SignIn</a></li>
 				</ul>
 				</div>
